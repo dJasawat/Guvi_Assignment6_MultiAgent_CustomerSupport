@@ -1,0 +1,151 @@
+faq_id,question,answer,category
+FAQ001,How do I track my order?,Go to My Orders > Select Order > Track Package for real-time courier updates.,Delivery Issue
+FAQ002,What should I do if my order is delayed?,"Check tracking first. If no update for 48 hours, raise a complaint via My Orders > Help.",Delivery Issue
+FAQ003,Can I change my delivery address after placing an order?,"Yes, before dispatch. Go to My Orders > Order Details > Edit Address.",Delivery Issue
+FAQ004,What happens if I miss my delivery?,Courier will reattempt delivery. You can also reschedule via the tracking link.,Delivery Issue
+FAQ005,How do I reschedule my delivery?,Use the tracking link in your SMS/email to select a new delivery slot.,Delivery Issue
+FAQ006,What if my package shows delivered but I didn't receive it?,Raise a complaint within 48 hours via My Orders > Report > Item Not Received.,Delivery Issue
+FAQ007,Can I request a specific delivery time?,You can choose a preferred slot during checkout if available in your pin code.,Delivery Issue
+FAQ008,What if my package is damaged on arrival?,"Do not accept if visibly damaged. If opened and damaged, report via My Orders within 48 hours.",Delivery Issue
+FAQ009,Why was my order returned to seller?,This happens after failed delivery attempts. Contact support to reship or get refund.,Delivery Issue
+FAQ010,Do you deliver to all pin codes in India?,"We deliver to 27,000+ pin codes. Enter your pin code on product page to check availability.",Delivery Issue
+FAQ011,What courier partners do you use?,"We use BlueDart, Delhivery, Ecom Express, Amazon Logistics, and other regional partners.",Delivery Issue
+FAQ012,Can I pick up my order from a warehouse?,Self-pickup is not available currently. All orders are home delivered.,Delivery Issue
+FAQ013,Why is my order split into multiple shipments?,Items from different sellers or warehouses may ship separately with different tracking IDs.,Delivery Issue
+FAQ014,How do I report a fake delivery attempt?,Go to My Orders > Track > Report False Delivery Attempt to file an official complaint.,Delivery Issue
+FAQ015,What is the estimated delivery time?,Standard: 3-7 days. Express: 1-2 days. Same-day available in select cities.,Delivery Issue
+FAQ016,What is the return policy?,Most products: 10-day return window. Electronics: 7 days. Some items are non-returnable.,Refund & Return
+FAQ017,How long does a refund take?,5-7 business days to original source. UPI/wallets: 2-3 days. COD: 7-9 days to bank.,Refund & Return
+FAQ018,How do I initiate a return?,Go to My Orders > Select Order > Return/Replace > Choose reason > Submit.,Refund & Return
+FAQ019,Can I return a product after the return window?,"Generally no, but exceptions can be made for manufacturing defects. Contact support.",Refund & Return
+FAQ020,What items cannot be returned?,"Innerwear, swimwear, perishables, customized items, and digital products are non-returnable.",Refund & Return
+FAQ021,How do I track my return?,Go to My Orders > Return Requests > Track Return to see pickup and processing status.,Refund & Return
+FAQ022,Will I get a full refund?,Yes for most cases. Partial refund may apply if item is not returned in original condition.,Refund & Return
+FAQ023,Can I exchange instead of return?,Exchange is available for fashion and footwear for size/color changes.,Refund & Return
+FAQ024,What if the return pickup is not done?,Raise an escalation after 3 missed pickups via My Orders > Help > Escalate.,Refund & Return
+FAQ025,How do I return a gift item?,Gift returns are supported. You'll need the order ID which the gifter can share.,Refund & Return
+FAQ026,Is return free of cost?,"Yes, return pickup is free for eligible products. You don't need to pay anything.",Refund & Return
+FAQ027,What if quality check fails on return?,"If we find item not in original condition, return may be rejected. Contact support to dispute.",Refund & Return
+FAQ028,Can I cancel a return request?,"Yes, cancel the return from My Orders > Return Requests before the pickup happens.",Refund & Return
+FAQ029,Where will my refund be credited?,To the original payment method. You can also opt for store credit for faster processing.,Refund & Return
+FAQ030,How to return a bundled product?,All items in a bundle must be returned together for a full refund.,Refund & Return
+FAQ031,What payment methods are accepted?,"Cards, Net Banking, UPI, Wallets (Paytm, PhonePe, Amazon Pay), EMI, and COD.",Payment Issue
+FAQ032,Is Cash on Delivery available?,"COD is available for most pin codes for orders below ₹50,000.",Payment Issue
+FAQ033,How to use a coupon code?,Enter coupon in the 'Apply Coupon' field at checkout. One coupon per order.,Payment Issue
+FAQ034,What should I do if my payment fails?,"Check your bank/wallet. If debited but order not placed, it auto-reverses in 5-7 days.",Payment Issue
+FAQ035,Are EMI options available?,"Yes, No-cost EMI available on select cards for orders above ₹3,000.",Payment Issue
+FAQ036,How do I get a GST invoice?,GST invoice is auto-generated. Download from My Orders > Invoice. Update GSTIN in profile.,Payment Issue
+FAQ037,Can I pay in installments?,"Yes, EMI options from 3 to 24 months are available on eligible cards.",Payment Issue
+FAQ038,Is it safe to save my card?,"Yes, cards are tokenized as per RBI guidelines. We don't store actual card numbers.",Payment Issue
+FAQ039,How to use wallet balance?,Select 'Pay from Wallet' at checkout. Balance will be applied automatically.,Payment Issue
+FAQ040,What is the price guarantee policy?,"If price drops within 24 hours of your order, you can request a price match.",Payment Issue
+FAQ041,Why was I charged more than the cart total?,"Check for applicable taxes, delivery charges, or packaging fees added at checkout.",Payment Issue
+FAQ042,Can I split payment between two methods?,"Yes, you can use wallet + card or wallet + net banking in many cases.",Payment Issue
+FAQ043,How to get a duplicate invoice?,Go to My Orders > Select Order > Download Invoice or contact support.,Payment Issue
+FAQ044,What are the charges for COD?,A handling fee of ₹40-₹60 may apply for Cash on Delivery orders.,Payment Issue
+FAQ045,How to add/remove a saved card?,"Go to Account > Saved Cards to add, edit, or delete your payment methods.",Payment Issue
+FAQ046,How do I check product warranty?,Warranty details are on the product page. Keep invoice for claiming warranty.,Product Issue
+FAQ047,What if I receive a wrong product?,Report via My Orders > Report Issue > Wrong Item within 48 hours of delivery.,Product Issue
+FAQ048,How do I report a defective product?,Go to My Orders > Report > Defective Item. Upload photos for faster resolution.,Product Issue
+FAQ049,Can I get a product replaced instead of refunded?,"Yes, replacement is available for defective and wrong items within the return window.",Product Issue
+FAQ050,How to claim warranty for electronics?,"Contact brand service center with your invoice, or raise a warranty claim via our app.",Product Issue
+FAQ051,What if the product listing is misleading?,Report via product page > Report Incorrect Info. We will review and update the listing.,Product Issue
+FAQ052,Is the product I'm buying original?,All products on our platform are sourced from authorized sellers. Look for 'Fulfilled by Us' badge.,Product Issue
+FAQ053,What if product quality doesn't match description?,You can return for full refund or replacement within the return window.,Product Issue
+FAQ054,How to check product authenticity?,Check brand's official verification website or scan QR/barcode on the packaging.,Product Issue
+FAQ055,What if product has missing parts?,Report within 48 hours via My Orders > Report > Missing Item/Accessory.,Product Issue
+FAQ056,Can I request installation for large appliances?,"Yes, free installation is available for ACs, washing machines, and refrigerators in select cities.",Product Issue
+FAQ057,What is the difference between refurbished and new?,Refurbished products are clearly labeled and come with warranty. New products are factory-sealed.,Product Issue
+FAQ058,How to register my product for warranty?,Visit brand's website or use the warranty card in the box to register within 30 days.,Product Issue
+FAQ059,What to do if product expires before use?,Report expired product immediately. This is a seller violation and we take it seriously.,Product Issue
+FAQ060,How do I know if a product is compatible with my device?,Check the compatibility section on product page or use our compatibility tool.,Product Issue
+FAQ061,How to reset my password?,Click 'Forgot Password' on login page. OTP or link will be sent to registered email/phone.,Account & Login
+FAQ062,How to update my mobile number?,Go to Account > Profile > Edit Mobile Number. OTP verification required.,Account & Login
+FAQ063,How to delete my account?,Go to Account > Settings > Delete Account. Process completes in 30 days.,Account & Login
+FAQ064,How to enable two-factor authentication?,Go to Account > Security > Enable 2FA. Use authenticator app or SMS.,Account & Login
+FAQ065,What to do if account is hacked?,Immediately change password and contact support. We will lock suspicious sessions.,Account & Login
+FAQ066,How to manage notification preferences?,"Go to Account > Notifications to toggle email, SMS, and push notification settings.",Account & Login
+FAQ067,Can I have multiple accounts?,One account per email/mobile. Duplicate accounts may be merged or suspended.,Account & Login
+FAQ068,How to update delivery address?,"Go to Account > Addresses to add, edit, or delete saved addresses.",Account & Login
+FAQ069,How to view order history?,Go to My Orders to see all past and active orders with full details.,Account & Login
+FAQ070,How do I refer a friend?,Go to Account > Refer & Earn > Share your referral link or code.,Account & Login
+FAQ071,What is the rewards/loyalty program?,Earn points on every purchase. Redeem for discounts on future orders. Check Account > Rewards.,Account & Login
+FAQ072,How to link my business account?,Go to Account > Business Profile to add your GSTIN and switch to business invoicing.,Account & Login
+FAQ073,How to change account language?,Go to Account > Preferences > Language to switch between supported languages.,Account & Login
+FAQ074,How to report unauthorized account activity?,Go to Account > Security > Report Suspicious Activity or call our 24/7 security line.,Account & Login
+FAQ075,How to recover a disabled account?,Contact support with your registered email and government ID for verification.,Account & Login
+FAQ076,How do I contact the seller directly?,Go to My Orders > Order Details > Contact Seller to send a message.,Seller & Product Listing
+FAQ077,What if seller is not responding?,"If seller doesn't respond in 48 hours, escalate to platform via My Orders > Escalate.",Seller & Product Listing
+FAQ078,How to report a fraudulent seller?,Go to product page > Report Seller > Select reason. Our trust team will investigate.,Seller & Product Listing
+FAQ079,Can I buy directly from brand stores?,"Yes, look for 'Brand Official Store' badge on listings for direct brand products.",Seller & Product Listing
+FAQ080,What protection do I have against bad sellers?,"Our Buyer Protection covers you for wrong, fake, or undelivered items within the policy window.",Seller & Product Listing
+FAQ081,How are sellers rated on the platform?,"Sellers are rated on delivery speed, product accuracy, and customer feedback. Check seller profile.",Seller & Product Listing
+FAQ082,How to leave feedback for a seller?,Go to My Orders > Rate & Review > Rate Seller after your order is delivered.,Seller & Product Listing
+FAQ083,What happens when I report a seller?,Our seller compliance team reviews the complaint within 3-5 business days.,Seller & Product Listing
+FAQ084,How to check seller return policies?,Each seller's return policy is mentioned on their store page and product listing.,Seller & Product Listing
+FAQ085,Can I buy from international sellers?,"Yes, Global Store items ship from international sellers. Additional customs duties may apply.",Seller & Product Listing
+FAQ086,How do I download the mobile app?,Available on Google Play Store and Apple App Store. Search for our app name.,App & Website Issue
+FAQ087,Why is the app crashing?,Try clearing cache or reinstalling the app. Update to the latest version.,App & Website Issue
+FAQ088,How do I enable dark mode?,Go to App Settings > Display > Enable Dark Mode.,App & Website Issue
+FAQ089,Can I use the website on all browsers?,"We support Chrome, Firefox, Safari, and Edge. Use latest versions for best experience.",App & Website Issue
+FAQ090,How to turn off marketing emails?,Go to Account > Communication Preferences > Unsubscribe from Promotional Emails.,App & Website Issue
+FAQ091,Is there a desktop app available?,Currently only web and mobile apps are available. No desktop app at this time.,App & Website Issue
+FAQ092,How to use voice search on the app?,Tap the microphone icon on the search bar and speak your search query.,App & Website Issue
+FAQ093,Why are product images not loading?,Check your internet connection. Try clearing app cache or using a different network.,App & Website Issue
+FAQ094,How to use the wishlist feature?,Tap the heart icon on any product to add to wishlist. Access it from Account > Wishlist.,App & Website Issue
+FAQ095,How to compare products?,Use the Compare feature on product pages to compare up to 4 items side by side.,App & Website Issue
+FAQ096,What is the installation process for ACs?,Free installation within 48 hours of delivery in serviceable areas. Scheduler in order page.,Product Issue
+FAQ097,Does the laptop come with a pre-installed OS?,"OS details are in the product specifications. Some come with Windows, others are FreeDOS.",Product Issue
+FAQ098,What accessories come with the smartphone?,In-box contents are listed on the product page under 'What's in the Box' section.,Product Issue
+FAQ099,Can I get extended warranty for electronics?,"Yes, extended warranty plans are available at checkout or within 30 days of purchase.",Product Issue
+FAQ100,How to register my new TV for warranty?,Scan the QR code on the TV or visit the brand's website with your invoice number.,Product Issue
+FAQ101,How do I find my correct clothing size?,Use the Size Guide on the product page. Measurements are in inches and centimeters.,Product Issue
+FAQ102,Are the product colors accurate to photos?,Colors may vary slightly due to screen settings. Check reviews for real-life photos.,Product Issue
+FAQ103,Can I return fashion items?,"Yes, within 10 days if unworn, unwashed, and with tags intact.",Refund & Return
+FAQ104,What if shoes don't fit?,Exchange for correct size within 10 days. Free pickup and re-delivery.,Refund & Return
+FAQ105,How to care for my new garment?,Check the care label inside the garment. Washing instructions vary by fabric type.,Product Issue
+FAQ106,What is the shelf life of grocery items?,Shelf life is mentioned on product page. We ensure minimum 70% remaining shelf life at delivery.,Product Issue
+FAQ107,Are grocery items FSSAI certified?,"Yes, all food items on our platform are FSSAI certified. License details on product page.",Product Issue
+FAQ108,How to report an expired grocery item?,Report via My Orders > Report > Expired Product. Include photos of expiry date.,Product Issue
+FAQ109,Is cold chain maintained for perishables?,"Yes, temperature-sensitive items are stored and delivered with cold chain logistics.",Delivery Issue
+FAQ110,Can I schedule grocery delivery?,"Yes, select your preferred delivery slot at checkout for grocery orders.",Delivery Issue
+FAQ111,How do I contact customer support?,"Chat (24/7 in app), Email (support@shop.com), Phone (1800-XXX-XXXX, 9AM-9PM Mon-Sat).",Account & Login
+FAQ112,What are the support hours?,Chat support is 24/7. Phone support is 9AM-9PM Monday to Saturday.,Account & Login
+FAQ113,How long does it take to resolve a complaint?,Most issues resolved within 24-48 hours. Complex cases may take up to 7 business days.,Account & Login
+FAQ114,Can I raise a complaint via email?,"Yes, email support@shop.com with your order ID and issue details.",Account & Login
+FAQ115,Is there a priority support for Prime members?,"Yes, Prime members get dedicated support with faster response times and priority queues.",Account & Login
+FAQ116,How to escalate an unresolved complaint?,"After 48 hours without resolution, use the Escalate option in the ticket or contact nodal officer.",Account & Login
+FAQ117,How to give feedback about customer service?,A feedback survey is sent after each resolved ticket. You can also rate via the app.,Account & Login
+FAQ118,Do you have support in regional languages?,"Yes, support available in Hindi, Tamil, Telugu, Kannada, Bengali, Marathi, and Gujarati.",Account & Login
+FAQ119,How to find the best deals?,"Check Today's Deals, Lightning Deals, and seasonal sale banners on the homepage.",Payment Issue
+FAQ120,What is the Great Indian Festival sale?,Our biggest annual sale with discounts up to 80% across all categories.,Payment Issue
+FAQ121,How do bank offers work?,Extra discounts apply at checkout when you pay with eligible bank cards. Check offer terms.,Payment Issue
+FAQ122,Can I stack multiple offers?,Generally one coupon + one bank offer can be combined. Stacking more is not permitted.,Payment Issue
+FAQ123,How to set a price drop alert?,"On any product page, click 'Notify Me for Price Drop' to get an alert when price decreases.",Payment Issue
+FAQ124,Is there a student discount program?,"Yes, verify your student status for exclusive discounts on electronics and books.",Payment Issue
+FAQ125,How does the subscription discount work?,Subscribe & Save gives you 5-10% off on regular grocery purchases with auto-delivery.,Payment Issue
+FAQ126,What is the Prime membership price?,"Prime membership starts at ₹299/month or ₹1,499/year. Includes free delivery and streaming.",Account & Login
+FAQ127,Do you sell second-hand products?,"Yes, check our Renewed/Refurbished section for certified pre-owned products with warranty.",Product Issue
+FAQ128,How to gift wrap an order?,Select 'Add Gift Wrap' at cart. Add personalized message at no extra cost.,Delivery Issue
+FAQ129,Can I send an order as a gift to someone else?,"Yes, enter the recipient's address at checkout. Gift message option is available.",Delivery Issue
+FAQ130,How to use the AR try-on feature?,Available for select furniture and fashion items. Tap 'View in Your Room' or 'Try On'.,App & Website Issue
+FAQ131,How to report incorrect product information?,"On product page, scroll down to 'Report Incorrect Info' and submit your correction.",Seller & Product Listing
+FAQ132,What is buyer protection?,"We guarantee refund or replacement if your item is not delivered, is fake, or is significantly different.",Refund & Return
+FAQ133,How do I donate unused items?,Our Give Back program lets you donate used items via the app. Schedule a pickup.,Account & Login
+FAQ134,Can I buy internationally and ship to India?,Global Store items ship to India. Customs duties and import fees may apply.,Delivery Issue
+FAQ135,How to track a gift order without revealing the order?,Use the gift tracking link sent to the recipient which shows delivery status without order details.,Delivery Issue
+FAQ136,How to opt out of data sharing?,Go to Account > Privacy Settings > Manage Data Sharing Preferences.,Account & Login
+FAQ137,How do I get my order gift-wrapped?,Select the gift wrap option during checkout. A nominal fee may apply for premium wrapping.,Delivery Issue
+FAQ138,Do you price match with other platforms?,We don't have a formal price match policy but regularly offer competitive prices.,Payment Issue
+FAQ139,How do I get early access to sales?,Prime members get early access. Also sign up for sale notifications in Account > Preferences.,Account & Login
+FAQ140,How to use the barcode scanner in the app?,Open the app > tap the camera icon in search > scan any product barcode to find it instantly.,App & Website Issue
+FAQ141,Can I access the platform on smart TV?,"Yes, our app is available on Android Smart TVs and Amazon Fire TV via respective app stores.",App & Website Issue
+FAQ142,How to share a product with a friend?,"Tap the Share icon on any product page to share via WhatsApp, SMS, or copy link.",App & Website Issue
+FAQ143,How to write a product review?,Go to My Orders > Delivered Orders > Rate & Review Product after delivery.,App & Website Issue
+FAQ144,Why is my review not showing?,Reviews go through moderation. It appears within 2-3 business days if it meets guidelines.,App & Website Issue
+FAQ145,How to check product ratings breakdown?,On the product page scroll to the Ratings section to see star distribution and verified reviews.,App & Website Issue
+FAQ146,What is a lightning deal?,Lightning deals are time-limited discounts available for a set quantity. Act fast before they expire.,Payment Issue
+FAQ147,How to report a price error on a listing?,"Go to product page > Report an Issue > Incorrect Price, and our catalog team will review.",Seller & Product Listing
+FAQ148,What if seller cancels my order?,"If a seller cancels, you get a full refund and we may offer a compensation coupon.",Seller & Product Listing
+FAQ149,How to become a seller on the platform?,Visit our Seller Central page and complete the registration with GST details and bank account.,Seller & Product Listing
+FAQ150,What is the platform's commission to sellers?,Commission varies by category from 2% to 15%. Full fee structure is on Seller Central.,Seller & Product Listing
