@@ -8,7 +8,7 @@ needs to change.
 """
 
 from datetime import datetime
-import db
+import Src.db as db
 
 
 def verify_payment(order_id: str) -> dict:
