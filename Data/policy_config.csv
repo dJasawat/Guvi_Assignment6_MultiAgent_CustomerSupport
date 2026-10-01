@@ -1,0 +1,4 @@
+key,value,description
+AUTO_REFUND_MAX_AMOUNT,500,Maximum refund amount (USD) that can be auto-approved without a human
+REFUND_WINDOW_DAYS,30,Number of days after the charge date during which a refund can be requested
+DUPLICATE_DETECTION_WINDOW_MINUTES,120,Two successful charges on the same order within this many minutes are treated as a duplicate charge

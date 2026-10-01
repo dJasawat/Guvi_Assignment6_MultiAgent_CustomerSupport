@@ -1,0 +1,5 @@
+order_id,customer_id,amount,order_date,status
+A-2291,C-1001,49.99,2026-09-05,completed
+A-2305,C-1002,899.00,2026-08-20,completed
+A-2310,C-1003,25.50,2026-01-10,completed
+A-2318,C-1002,120.00,2026-07-01,completed
